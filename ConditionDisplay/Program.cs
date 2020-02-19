@@ -22,7 +22,6 @@ namespace ConditionDisplay
             else
             {
                 Console.WriteLine($"輸入的值小於{condition}");
-
             }
             Console.ReadLine();
         }
